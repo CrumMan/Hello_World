@@ -2,7 +2,7 @@
 
 Example: This is for the Hello World assignment Its purpose is to show that Hello World is working with the example template software.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=ak1aewaio_Y)
 
 # Development Environment
 
